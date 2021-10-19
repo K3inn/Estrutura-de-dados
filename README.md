@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/34357185?v=4" width="100px;" alt="B_ D.Kinn"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Kinn</b>
         </sub>
       </a>
     </td>
