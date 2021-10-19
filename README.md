@@ -12,3 +12,10 @@
 
 > Compartilhando meu progresso no estudo em estrutura de dados com "C"
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+- [x] Listas ```( Em Progresso )```
+> Lista Sequencial Estatica - **```Concluido```**<br> 
+> Lista Dinamica Encadeada - **```Em progresso```**<br>
+> Lista Dinamica Duplamente Encadeada - **```Em fila```**<br>
+> Lista Circular - **```Em fila```**<br>
+> Lista com Nó descritor - **```Em Fila```**<br>
