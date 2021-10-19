@@ -1,6 +1,7 @@
 //Aula 01
 #define MAX 100
 
+//Definição dos tipos de dados e prototipo criação e limpeza da lista
 struct DadosPessoais{
     char nome[30];
     int idade;
@@ -13,17 +14,17 @@ typedef struct lista Lista;
 Lista* cria_lista();
 void limpa_lista(Lista* li);
 
-//Aula 02
+//Gerenciamento da lista, informações.
 int tamanho_lista(Lista* li);
 int lista_cheia(Lista* li);
 int lista_vazia(Lista* li);
 
-//Aula 03
+//Inserção da na lista
 int insere_lista_final(Lista* li, struct DadosPessoais al);
 int insere_lista_inicio(Lista* li, struct DadosPessoais al);
 int insere_lista_meio(Lista* li, struct DadosPessoais al);
 
-//Aula 04
+//Remoção e consulta
 int remove_lista_final(Lista* li);
 int remove_lista_inicio(Lista* li);
 int remove_lista_meio(Lista* li, struct DadosPessoais al);

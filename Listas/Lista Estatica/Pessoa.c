@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "Pessoa.h"
 
-//Aula 01
+
 struct lista{
     int qtd;
     struct DadosPessoais dados[MAX];
@@ -20,7 +20,6 @@ void limpa_lista(Lista* li){
     free(li);
 }
 
-//Aula 02
 int tamanho_lista(Lista* li){
     if(li == NULL){ return -1;}
     else{ return li->qtd;}
@@ -36,7 +35,6 @@ int lista_vazia(Lista* li){
     else{return (li->qtd == 0);}
 }
 
-//Aula 03
 int insere_lista_final(Lista* li, struct DadosPessoais al){
     if(li == NULL || lista_cheia(li)){
         return 0;
@@ -76,7 +74,6 @@ int insere_lista_meio(Lista* li, struct DadosPessoais al){
     }
 }
 
-//Aula 04
 int remove_lista_final(Lista* li){
     if(li == NULL || li->qtd == 0){ return 0;}
     else{ 
