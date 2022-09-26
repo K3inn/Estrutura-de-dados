@@ -8,10 +8,10 @@
 <img src="https://github.com/K3inn/Estrutura-de-dados/blob/main/assets/cover.png">
 
 > Compartilhando meu progresso no estudo em estrutura de dados com "C"
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 
-### Tarefas -----
+
+### ☕ Tarefas | Progressos
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
